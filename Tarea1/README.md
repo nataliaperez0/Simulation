@@ -1,1 +1,1 @@
-Práctica #1
+Práctica #1: Movimiento Browniano
