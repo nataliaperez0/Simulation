@@ -1,1 +1,1 @@
-Práctica #2
+Práctica #2: Autómata celular
