@@ -1,1 +1,1 @@
-Práctica #4: Diagramas de Veronoi.
+Práctica #4: Diagramas de Veronoi
