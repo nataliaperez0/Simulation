@@ -1,1 +1,1 @@
-Práctica #6: Sistema multiagente.
+Práctica #6: Sistema multiagente
