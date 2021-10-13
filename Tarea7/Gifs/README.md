@@ -1,0 +1,1 @@
+Gif de cada paso.
